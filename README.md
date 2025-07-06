@@ -53,7 +53,7 @@ Clonar este proyecto desde GitHub:
 1. Abre CMD o PowerShell, Dirigete a la carpeta en donde quieras clonar el repositorio.
 2. Ejecuta el siguiente comando (reemplaza la URL si es necesario):
 
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/TheWiche/Ascenso-del-Errante.git
 
 3. Abre Unity Hub
 4. Haz clic en "Add" o "Agregar"
